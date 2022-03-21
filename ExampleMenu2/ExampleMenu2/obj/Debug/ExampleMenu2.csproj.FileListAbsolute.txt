@@ -1,0 +1,42 @@
+C:\Users\Bulson\Documents\ASOURCE\ExampleMenu2\ExampleMenu2\bin\Debug\ExampleMenu2.exe.config
+C:\Users\Bulson\Documents\ASOURCE\ExampleMenu2\ExampleMenu2\bin\Debug\ExampleMenu2.exe
+C:\Users\Bulson\Documents\ASOURCE\ExampleMenu2\ExampleMenu2\bin\Debug\ExampleMenu2.pdb
+C:\Users\Bulson\Documents\ASOURCE\ExampleMenu2\ExampleMenu2\obj\Debug\ExampleMenu2.csprojResolveAssemblyReference.cache
+C:\Users\Bulson\Documents\ASOURCE\ExampleMenu2\ExampleMenu2\obj\Debug\MainWindow.g.cs
+C:\Users\Bulson\Documents\ASOURCE\ExampleMenu2\ExampleMenu2\obj\Debug\View\FirstDemoView.g.cs
+C:\Users\Bulson\Documents\ASOURCE\ExampleMenu2\ExampleMenu2\obj\Debug\App.g.cs
+C:\Users\Bulson\Documents\ASOURCE\ExampleMenu2\ExampleMenu2\obj\Debug\ExampleMenu2_MarkupCompile.cache
+C:\Users\Bulson\Documents\ASOURCE\ExampleMenu2\ExampleMenu2\obj\Debug\ExampleMenu2_MarkupCompile.lref
+C:\Users\Bulson\Documents\ASOURCE\ExampleMenu2\ExampleMenu2\obj\Debug\MainWindow.baml
+C:\Users\Bulson\Documents\ASOURCE\ExampleMenu2\ExampleMenu2\obj\Debug\View\FirstDemoView.baml
+C:\Users\Bulson\Documents\ASOURCE\ExampleMenu2\ExampleMenu2\obj\Debug\ExampleMenu2.g.resources
+C:\Users\Bulson\Documents\ASOURCE\ExampleMenu2\ExampleMenu2\obj\Debug\ExampleMenu2.Properties.Resources.resources
+C:\Users\Bulson\Documents\ASOURCE\ExampleMenu2\ExampleMenu2\obj\Debug\ExampleMenu2.csproj.GenerateResource.Cache
+C:\Users\Bulson\Documents\ASOURCE\ExampleMenu2\ExampleMenu2\obj\Debug\ExampleMenu2.exe
+C:\Users\Bulson\Documents\ASOURCE\ExampleMenu2\ExampleMenu2\obj\Debug\ExampleMenu2.pdb
+C:\Users\Bulson\Documents\ASOURCE\ExampleMenu2\ExampleMenu2\obj\Debug\View\SecondDemoView.g.cs
+C:\Users\Bulson\Documents\ASOURCE\ExampleMenu2\ExampleMenu2\obj\Debug\View\SecondDemoView.baml
+C:\Users\Bulson\Documents\ASOURCE\ExampleMenu2\ExampleMenu2\obj\Debug\SeparateDemo\SeparateDemoView.g.cs
+C:\Users\Bulson\Documents\ASOURCE\ExampleMenu2\ExampleMenu2\obj\Debug\SeparateDemo\SeparateDemoView.baml
+D:\19K\For me\ExampleMenu2\ExampleMenu2\bin\Debug\ExampleMenu2.exe.config
+D:\19K\For me\ExampleMenu2\ExampleMenu2\bin\Debug\ExampleMenu2.exe
+D:\19K\For me\ExampleMenu2\ExampleMenu2\bin\Debug\ExampleMenu2.pdb
+D:\19K\For me\ExampleMenu2\ExampleMenu2\obj\Debug\ExampleMenu2.csproj.AssemblyReference.cache
+D:\19K\For me\ExampleMenu2\ExampleMenu2\obj\Debug\ExampleMenu2.csproj.SuggestedBindingRedirects.cache
+D:\19K\For me\ExampleMenu2\ExampleMenu2\obj\Debug\MainWindow.g.cs
+D:\19K\For me\ExampleMenu2\ExampleMenu2\obj\Debug\SeparateDemo\SeparateDemoView.g.cs
+D:\19K\For me\ExampleMenu2\ExampleMenu2\obj\Debug\View\FirstDemoView.g.cs
+D:\19K\For me\ExampleMenu2\ExampleMenu2\obj\Debug\View\SecondDemoView.g.cs
+D:\19K\For me\ExampleMenu2\ExampleMenu2\obj\Debug\App.g.cs
+D:\19K\For me\ExampleMenu2\ExampleMenu2\obj\Debug\ExampleMenu2_MarkupCompile.cache
+D:\19K\For me\ExampleMenu2\ExampleMenu2\obj\Debug\ExampleMenu2_MarkupCompile.lref
+D:\19K\For me\ExampleMenu2\ExampleMenu2\obj\Debug\MainWindow.baml
+D:\19K\For me\ExampleMenu2\ExampleMenu2\obj\Debug\SeparateDemo\SeparateDemoView.baml
+D:\19K\For me\ExampleMenu2\ExampleMenu2\obj\Debug\View\FirstDemoView.baml
+D:\19K\For me\ExampleMenu2\ExampleMenu2\obj\Debug\View\SecondDemoView.baml
+D:\19K\For me\ExampleMenu2\ExampleMenu2\obj\Debug\ExampleMenu2.g.resources
+D:\19K\For me\ExampleMenu2\ExampleMenu2\obj\Debug\ExampleMenu2.Properties.Resources.resources
+D:\19K\For me\ExampleMenu2\ExampleMenu2\obj\Debug\ExampleMenu2.csproj.GenerateResource.cache
+D:\19K\For me\ExampleMenu2\ExampleMenu2\obj\Debug\ExampleMenu2.csproj.CoreCompileInputs.cache
+D:\19K\For me\ExampleMenu2\ExampleMenu2\obj\Debug\ExampleMenu2.exe
+D:\19K\For me\ExampleMenu2\ExampleMenu2\obj\Debug\ExampleMenu2.pdb
